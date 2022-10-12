@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 aiohttp = "*"
 flask = {extras = ["async"], version = "*"}
+rich = "*"
 
 [dev-packages]
 pipenv = "*"
